@@ -43,10 +43,12 @@ The User Will Be Prompted To :
 
     9. List Empty ?
 
-        9.1. List is not empty
-        9.2. List is empty
+        9.1. List is Not Empty
+        9.2. List is Empty
 
     10. List Full ?
 
-        10.1. List is not empty
-        10.2. List is empty
+        10.1. List is Not Full
+        10.2. List is Full
+
+The GCC File Also Have Been Pushed.
