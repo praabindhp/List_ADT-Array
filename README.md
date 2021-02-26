@@ -25,10 +25,10 @@ The Operations/Error Illustrated :
 
 The User Will Be Prompted To :
 
-    1. Enter No. Of Elements
+    1. Enter Your Option
 
-    2. Enter Elements
+    2. List is Created successfully
 
-    3. Enter Number To Search
+    3. 
 
 The GCC File Also Have Been Pushed.
