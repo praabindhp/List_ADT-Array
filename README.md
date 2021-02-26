@@ -29,6 +29,6 @@ The User Will Be Prompted To :
 
     2. List is Created successfully
 
-    3. 
+    3. Enter the Element to insert
 
 The GCC File Also Have Been Pushed.
