@@ -35,4 +35,6 @@ The User Will Be Prompted To :
 
     5. Where u want to insert?
 
+    6. Elements present in the list
+
 The GCC File Also Have Been Pushed.
