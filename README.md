@@ -50,5 +50,3 @@ The User Will Be Prompted To :
 
         10.1. List is not empty
         10.2. List is empty
-
-The GCC File Also Have Been Pushed.
