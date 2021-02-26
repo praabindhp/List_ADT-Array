@@ -39,4 +39,6 @@ The User Will Be Prompted To :
 
     7. Which element is to find
 
+    8. Element is at position
+
 The GCC File Also Have Been Pushed.
