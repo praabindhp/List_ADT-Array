@@ -41,4 +41,8 @@ The User Will Be Prompted To :
 
     8. Element is at position
 
+    9. List is not empty
+
+    10. 
+
 The GCC File Also Have Been Pushed.
