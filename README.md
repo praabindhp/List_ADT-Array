@@ -37,4 +37,6 @@ The User Will Be Prompted To :
 
     6. Elements present in the list
 
+    7. Which element is to find
+
 The GCC File Also Have Been Pushed.
