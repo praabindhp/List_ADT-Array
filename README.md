@@ -41,8 +41,9 @@ The User Will Be Prompted To :
 
     8. Element is at position
 
-    9. List is not empty
+    9. List Empty ?
 
-    10. 
+        9.1. List is not empty
+        9.2. List is empty
 
 The GCC File Also Have Been Pushed.
